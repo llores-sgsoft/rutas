@@ -20,5 +20,8 @@
 ##############################################################################
 
 import rutas
-
+# comentario prueba de comit nuevo
+#agregue funcion sumar
+def function suma(x,y):
+	return x+y
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
